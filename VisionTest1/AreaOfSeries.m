@@ -16,3 +16,5 @@ for i=1:13
 end
 
 cd ..
+
+plot([1:13],plantArea); xlim([1 13])
